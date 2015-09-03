@@ -1,12 +1,8 @@
 {
   "name": "ease-uc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "ease-uc.js",
-  "dependencies": {
-    "ease-component": "^1.0.0",
-    "ndic": "^0.1.7"
-  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/ssohjiro/ease-uc"
   },
-  "author": "ssohjiro <ssohjiro@gmail.com> (http://utopos.me/)",
+  "author": "ssohjiro <ssohjiro@gmail.com> ",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ssohjiro/ease-uc/issues"
